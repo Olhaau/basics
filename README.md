@@ -1,2 +1,1 @@
-# basics
-Summary of basics
+# Summary of some basics
